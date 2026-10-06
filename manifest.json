@@ -1,1 +1,6 @@
-{ "version": 1, "scripts": [] }
+{
+  "version": 1,
+  "scripts": [
+    { "id": "noclip-salvager", "version": 1, "sha256": "0db030b2f93a53e84bf5fddaaef08c1c7c7cf98ead0b341caaf6171f0686846a" }
+  ]
+}

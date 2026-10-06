@@ -3,6 +3,7 @@
   "scripts": [
     { "id": "noclip-salvager", "version": 1, "sha256": "0db030b2f93a53e84bf5fddaaef08c1c7c7cf98ead0b341caaf6171f0686846a" },
     { "id": "noclip-nh-brid-a", "version": 1, "sha256": "e00ec6c3ce754f3d371920ce165e48c23af2979705ce26f79a907ec1956e47be" },
-    { "id": "noclip-nh-brid-b", "version": 1, "sha256": "444fdf72d9d584fc6a2e6200c2d3915200d5a3563941ebb501ad4a851effaf0b" }
+    { "id": "noclip-nh-brid-b", "version": 1, "sha256": "444fdf72d9d584fc6a2e6200c2d3915200d5a3563941ebb501ad4a851effaf0b" },
+    { "id": "noclip-power-gatherer", "version": 1, "sha256": "27797b408ad4ddc09fd59fa5e64dc7c03d5f26f8b012f6090fd00d09b5eb10a8" }
   ]
 }

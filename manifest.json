@@ -6,6 +6,6 @@
     { "id": "noclip-power-gatherer", "version": 4, "sha256": "7e0f6db5ff9ecb0af1b01508ff89fbc68496137baeb157b1895bc97481549429" },
     { "id": "noclip-banking-skiller", "version": 2, "sha256": "409fe81caa72269a65e1a6a0a7590c810e7157d03fc252953b247d58052d48f9" },
     { "id": "noclip-salvager-lite", "version": 2, "sha256": "291fbe04bd5d4863230346f2b0eaf28ae5a56cb3495c5192591644f2770321a5" },
-    { "id": "noclip-salvager", "version": 6, "sha256": "ce709df55a58654131a2808cb9319a7196235b997bd120055e8a2ba5f01c76d4" }
+    { "id": "noclip-salvager", "version": 7, "sha256": "d14dcb07298e55eff4bcad6c741650cda9dc4d63b35ef3764ec4d7e7805cc4b6" }
   ]
 }

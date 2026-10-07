@@ -1,11 +1,11 @@
 {
   "version": 1,
   "scripts": [
-    { "id": "noclip-nh-brid-b", "version": 1, "sha256": "444fdf72d9d584fc6a2e6200c2d3915200d5a3563941ebb501ad4a851effaf0b" },
     { "id": "noclip-banking-skiller", "version": 1, "sha256": "544d7820c712e12c2fcdd90360b0b581911d334da56fed9c77684fa484f289ea" },
     { "id": "noclip-salvager-lite", "version": 1, "sha256": "2012bb6ed3a2465520001e16881be9ba85d80373cbd691923de10eadc63212cd" },
     { "id": "noclip-power-gatherer", "version": 3, "sha256": "98f33d902165025f6d6b0331a4eef32ec6208c3d9a8c417fe7f1c1210095d894" },
     { "id": "noclip-salvager", "version": 3, "sha256": "21d49c50cd6e794268905f09e41449879eb2f096c1d8f57f7566c9771cf09f5a" },
-    { "id": "noclip-nh-brid-a", "version": 2, "sha256": "2f1a103d121498d5ba9da3bf799ad28c47eb420a8779062784eed106cb84bfeb" }
+    { "id": "noclip-nh-brid-a", "version": 2, "sha256": "2f1a103d121498d5ba9da3bf799ad28c47eb420a8779062784eed106cb84bfeb" },
+    { "id": "noclip-nh-brid-b", "version": 2, "sha256": "879fcf55f463c2d9bda506c2f872145875185dd448c13b710995e99c4d5cc145" }
   ]
 }

@@ -8,7 +8,7 @@
     { "id": "noclip-construction-pro", "version": 9, "sha256": "db351e4fea795ae93830888729541de15d0ec997a614edf0cb7cbfdca36a42b9" },
     { "id": "noclip-revenant-killer", "version": 10, "sha256": "e845d469b738d5aa49bb2730cdb69e1f662ceadc4e7806fa4feb4370f9d397d3" },
     { "id": "noclip-last-man-standing", "version": 11, "sha256": "91f50e38065d0039a69ace288e2b2b41eb8c47d4610040957cf3b1f532f4150b" },
-    { "id": "noclip-nh-brid-b", "version": 49, "sha256": "ef784d0092d064410fa92556cda0103aada35b538d1b5bbdb6698b6d281df6f5" },
-    { "id": "noclip-nh-brid-a", "version": 46, "sha256": "b691fa2e7e00053e6641460352b31a7ec0dc937003bfc1935918b3cbca56f459" }
+    { "id": "noclip-nh-brid-a", "version": 46, "sha256": "b691fa2e7e00053e6641460352b31a7ec0dc937003bfc1935918b3cbca56f459" },
+    { "id": "noclip-nh-brid-b", "version": 50, "sha256": "25a11c18ff0561225bfacfb9616e383b8b1773d95f6a760707bec215ecd43ba6" }
   ]
 }

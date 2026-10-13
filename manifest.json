@@ -10,6 +10,6 @@
     { "id": "noclip-last-man-standing", "version": 18, "sha256": "5c0dc93ea6a06420891f9179d216916317e37eab3aef272e0a8d144c5fa2f162" },
     { "id": "noclip-nh-brid-a", "version": 53, "sha256": "31246191bf480b7db8444fd7ce8993967356f5ad4013cec22c203dc470b19ba9" },
     { "id": "noclip-nh-brid-b", "version": 56, "sha256": "ebb087c6992e4e68f0f266730175f7d4f00fbc8bca77e8b6aed5d8769bee6a7b" },
-    { "id": "noclip-high-risk", "version": 4, "sha256": "9aaaf55a9fee01321ba402717c94fea1e8e4a670cc7fb2a62a6d78919bd3ea4d" }
+    { "id": "noclip-high-risk", "version": 5, "sha256": "fa091e0768c5b56f01894c38c1fab9872a9c2ef4b76de3c9891c47ffa527538a" }
   ]
 }

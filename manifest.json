@@ -10,6 +10,6 @@
     { "id": "noclip-high-risk", "version": 15, "sha256": "df2a0b08c9860f1bbb0f83cb806f41a553848b02cd588e19dac56656331bd74c" },
     { "id": "noclip-nh-brid-a", "version": 54, "sha256": "737cd09d94e5b2de1b95755feb38e0bfaf4baf95fef4e32753632e4c85f84992" },
     { "id": "noclip-nh-brid-b", "version": 57, "sha256": "5879e4f54265d4907c3839e1acb32d102039c68389ab2c711a145f330eed21f5" },
-    { "id": "noclip-last-man-standing", "version": 20, "sha256": "addea678e3f15299e3c58aa239d5a99d6e3c54801ba91a183f04b5c94b79e73c" }
+    { "id": "noclip-last-man-standing", "version": 21, "sha256": "72ccd6bccedcb2dabe73e91845827bcda3548ba7d4235fc4586b9da865829726" }
   ]
 }

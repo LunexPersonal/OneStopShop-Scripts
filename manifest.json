@@ -10,6 +10,6 @@
     { "id": "noclip-high-risk", "version": 17, "sha256": "88a3253ae659ea1f97ee7cc67f3dfb2a8a0a9c62fa4d13b40500c3803e44c3ea" },
     { "id": "noclip-revenant-killer", "version": 11, "sha256": "3c1b5b47c4fe5dca90f48d28addf94caf3ed07e05b38086de6fbfdd65676bf60" },
     { "id": "noclip-nh-brid-a", "version": 68, "sha256": "e9281aa3711ea6fa278a963c18999766d4accb433c78c6fb507238b90de53a6c" },
-    { "id": "noclip-nh-brid-b", "version": 71, "sha256": "ded0013b3b83dccd7bc2e14943bd4e777747db3ec28cd12ccbe085555ff9947e" }
+    { "id": "noclip-nh-brid-b", "version": 72, "sha256": "3fd59eed54ad29092e962a34084a90d74e2daef47f0f6b22b62e5a4167b24e7f" }
   ]
 }

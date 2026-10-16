@@ -9,7 +9,7 @@
     { "id": "noclip-last-man-standing", "version": 25, "sha256": "f533209796f5f4d6d13280422cdaa1b08e8cf2bd44e9a43600aa21de70f2d706" },
     { "id": "noclip-high-risk", "version": 17, "sha256": "88a3253ae659ea1f97ee7cc67f3dfb2a8a0a9c62fa4d13b40500c3803e44c3ea" },
     { "id": "noclip-revenant-killer", "version": 11, "sha256": "3c1b5b47c4fe5dca90f48d28addf94caf3ed07e05b38086de6fbfdd65676bf60" },
-    { "id": "noclip-nh-brid-a", "version": 70, "sha256": "d4b00da96ea766758a635e52971a2b2d7155942c740b42d81c5a911ed1a0d91e" },
-    { "id": "noclip-nh-brid-b", "version": 73, "sha256": "5f74a95c9244cccd7105e2e752adb7f67884ee0da96ff0faf274be1aea434ab2" }
+    { "id": "noclip-nh-brid-b", "version": 73, "sha256": "5f74a95c9244cccd7105e2e752adb7f67884ee0da96ff0faf274be1aea434ab2" },
+    { "id": "noclip-nh-brid-a", "version": 71, "sha256": "3a1784a3392d2ad21d6e37db61f176a177e1b8fe010718ff1fd5d7beca1cceb2" }
   ]
 }

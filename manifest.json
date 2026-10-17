@@ -12,6 +12,6 @@
     { "id": "noclip-nh-brid-b", "version": 76, "sha256": "fcbd103a5e79ff4ea8e117d5ab7f50143cbf9256fd6c905b9d9dd6d0edcca73d" },
     { "id": "noclip-zulrah-pro", "version": 3, "sha256": "78ac297e8c96365b555e95e17462bb4ed762929c0823d275f2286b4689989178" },
     { "id": "noclip-revenant-killer", "version": 14, "sha256": "1580b2fab2dc57d56ff4f079c7da5241a0c306d7f4bdf863a7a5e714c29bb70c" },
-    { "id": "noclip-gear-loadouts", "version": 1, "sha256": "065c1c33c6c680b08859676b8268d2d2a9dd39c425acea5a8733633d81410984" }
+    { "id": "noclip-gear-loadouts", "version": 2, "sha256": "24cee953136b9d510fc88842ef6332b43c5ff5639b0eb39b71429039f79f4489" }
   ]
 }

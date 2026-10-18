@@ -6,7 +6,6 @@
     { "id": "noclip-salvager-lite", "version": 2, "sha256": "291fbe04bd5d4863230346f2b0eaf28ae5a56cb3495c5192591644f2770321a5" },
     { "id": "noclip-salvager", "version": 8, "sha256": "1377f7a0e9ae1e0302c4bd51e6bac4b1693acc6f5cace25818022c0079ab648b" },
     { "id": "noclip-construction-pro", "version": 9, "sha256": "db351e4fea795ae93830888729541de15d0ec997a614edf0cb7cbfdca36a42b9" },
-    { "id": "noclip-high-risk", "version": 19, "sha256": "69277e48176ddd775603b3a63e42be43f4cbf4046db5d3d0cc9369355eb06a59" },
     { "id": "noclip-last-man-standing", "version": 26, "sha256": "9ce6f66361262d930d7ba879163a437a89a4be610a611fe263be88ce04f6c39c" },
     { "id": "noclip-zulrah-pro", "version": 3, "sha256": "78ac297e8c96365b555e95e17462bb4ed762929c0823d275f2286b4689989178" },
     { "id": "noclip-revenant-killer", "version": 14, "sha256": "1580b2fab2dc57d56ff4f079c7da5241a0c306d7f4bdf863a7a5e714c29bb70c" },
@@ -15,6 +14,7 @@
     { "id": "noclip-gear-swap-hotkeys", "version": 1, "sha256": "014ecded4d567bcee8840440b525397ee7f66f4e1482624198765a1adbeafdc0" },
     { "id": "noclip-eat-pray-assistant", "version": 2, "sha256": "e1438bae46228cc01647af8ecf92268098adf52a448099e7b3232820c6445af8" },
     { "id": "noclip-nh-brid-b", "version": 79, "sha256": "0f628eaec1338f584f344e3bb4fd252f1b3057dacffaf4cab91cae4cbfbc8529" },
-    { "id": "noclip-nh-brid-a", "version": 75, "sha256": "9fd868aba3bd6f6e06419ba8b1ea013834012e17e37af470fc5d535fcd40b254" }
+    { "id": "noclip-nh-brid-a", "version": 75, "sha256": "9fd868aba3bd6f6e06419ba8b1ea013834012e17e37af470fc5d535fcd40b254" },
+    { "id": "noclip-high-risk", "version": 20, "sha256": "4b78f8b5fef6869de867883f852f1d2ea3208b47d52222e81e8b67973b861040" }
   ]
 }

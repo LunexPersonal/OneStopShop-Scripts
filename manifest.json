@@ -14,7 +14,7 @@
     { "id": "noclip-supply-calculator", "version": 1, "sha256": "df672bcb53d8fd6c3a06729f770fd933656e8e46af5567f69947bc275c5290e8" },
     { "id": "noclip-gear-swap-hotkeys", "version": 1, "sha256": "014ecded4d567bcee8840440b525397ee7f66f4e1482624198765a1adbeafdc0" },
     { "id": "noclip-eat-pray-assistant", "version": 2, "sha256": "e1438bae46228cc01647af8ecf92268098adf52a448099e7b3232820c6445af8" },
-    { "id": "noclip-nh-brid-b", "version": 77, "sha256": "69951950cdc2f7039655a265445246a53ca50085875ef4ebb8c41375e058836c" },
-    { "id": "noclip-nh-brid-a", "version": 74, "sha256": "4a0b787cc533e5d6688e82e873f3a9d4a93e41d885bb3c224e281fa1462047a0" }
+    { "id": "noclip-nh-brid-a", "version": 74, "sha256": "4a0b787cc533e5d6688e82e873f3a9d4a93e41d885bb3c224e281fa1462047a0" },
+    { "id": "noclip-nh-brid-b", "version": 78, "sha256": "2aa047537a55451b918a6039c1620b7e0107ee79a9d13cb2aa06ca088f79d75d" }
   ]
 }

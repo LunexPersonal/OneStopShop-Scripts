@@ -14,7 +14,7 @@
     { "id": "noclip-revenant-killer", "version": 14, "sha256": "1580b2fab2dc57d56ff4f079c7da5241a0c306d7f4bdf863a7a5e714c29bb70c" },
     { "id": "noclip-gear-loadouts", "version": 10, "sha256": "8c8c95557bbc2ca6e1fe255cdff7d1fa6406ad57e72330439b2592abf7a54a05" },
     { "id": "noclip-supply-calculator", "version": 1, "sha256": "df672bcb53d8fd6c3a06729f770fd933656e8e46af5567f69947bc275c5290e8" },
-    { "id": "noclip-eat-pray-assistant", "version": 1, "sha256": "a38fe4bde130cabec4748a8e0689d557d0a8e0273491354c2914515d9497532e" },
-    { "id": "noclip-gear-swap-hotkeys", "version": 1, "sha256": "014ecded4d567bcee8840440b525397ee7f66f4e1482624198765a1adbeafdc0" }
+    { "id": "noclip-gear-swap-hotkeys", "version": 1, "sha256": "014ecded4d567bcee8840440b525397ee7f66f4e1482624198765a1adbeafdc0" },
+    { "id": "noclip-eat-pray-assistant", "version": 2, "sha256": "e1438bae46228cc01647af8ecf92268098adf52a448099e7b3232820c6445af8" }
   ]
 }

@@ -9,12 +9,12 @@
     { "id": "noclip-high-risk", "version": 19, "sha256": "69277e48176ddd775603b3a63e42be43f4cbf4046db5d3d0cc9369355eb06a59" },
     { "id": "noclip-last-man-standing", "version": 26, "sha256": "9ce6f66361262d930d7ba879163a437a89a4be610a611fe263be88ce04f6c39c" },
     { "id": "noclip-nh-brid-a", "version": 73, "sha256": "01e3310c5a818b9a5a797b3a8d9e3f52cf3d6f1c5f91d5310186751021bffac2" },
-    { "id": "noclip-nh-brid-b", "version": 76, "sha256": "fcbd103a5e79ff4ea8e117d5ab7f50143cbf9256fd6c905b9d9dd6d0edcca73d" },
     { "id": "noclip-zulrah-pro", "version": 3, "sha256": "78ac297e8c96365b555e95e17462bb4ed762929c0823d275f2286b4689989178" },
     { "id": "noclip-revenant-killer", "version": 14, "sha256": "1580b2fab2dc57d56ff4f079c7da5241a0c306d7f4bdf863a7a5e714c29bb70c" },
     { "id": "noclip-gear-loadouts", "version": 10, "sha256": "8c8c95557bbc2ca6e1fe255cdff7d1fa6406ad57e72330439b2592abf7a54a05" },
     { "id": "noclip-supply-calculator", "version": 1, "sha256": "df672bcb53d8fd6c3a06729f770fd933656e8e46af5567f69947bc275c5290e8" },
     { "id": "noclip-gear-swap-hotkeys", "version": 1, "sha256": "014ecded4d567bcee8840440b525397ee7f66f4e1482624198765a1adbeafdc0" },
-    { "id": "noclip-eat-pray-assistant", "version": 2, "sha256": "e1438bae46228cc01647af8ecf92268098adf52a448099e7b3232820c6445af8" }
+    { "id": "noclip-eat-pray-assistant", "version": 2, "sha256": "e1438bae46228cc01647af8ecf92268098adf52a448099e7b3232820c6445af8" },
+    { "id": "noclip-nh-brid-b", "version": 77, "sha256": "69951950cdc2f7039655a265445246a53ca50085875ef4ebb8c41375e058836c" }
   ]
 }

@@ -9,12 +9,12 @@
     { "id": "noclip-last-man-standing", "version": 26, "sha256": "9ce6f66361262d930d7ba879163a437a89a4be610a611fe263be88ce04f6c39c" },
     { "id": "noclip-zulrah-pro", "version": 3, "sha256": "78ac297e8c96365b555e95e17462bb4ed762929c0823d275f2286b4689989178" },
     { "id": "noclip-revenant-killer", "version": 14, "sha256": "1580b2fab2dc57d56ff4f079c7da5241a0c306d7f4bdf863a7a5e714c29bb70c" },
-    { "id": "noclip-gear-loadouts", "version": 10, "sha256": "8c8c95557bbc2ca6e1fe255cdff7d1fa6406ad57e72330439b2592abf7a54a05" },
     { "id": "noclip-supply-calculator", "version": 1, "sha256": "df672bcb53d8fd6c3a06729f770fd933656e8e46af5567f69947bc275c5290e8" },
     { "id": "noclip-gear-swap-hotkeys", "version": 1, "sha256": "014ecded4d567bcee8840440b525397ee7f66f4e1482624198765a1adbeafdc0" },
     { "id": "noclip-eat-pray-assistant", "version": 2, "sha256": "e1438bae46228cc01647af8ecf92268098adf52a448099e7b3232820c6445af8" },
     { "id": "noclip-nh-brid-b", "version": 79, "sha256": "0f628eaec1338f584f344e3bb4fd252f1b3057dacffaf4cab91cae4cbfbc8529" },
     { "id": "noclip-nh-brid-a", "version": 75, "sha256": "9fd868aba3bd6f6e06419ba8b1ea013834012e17e37af470fc5d535fcd40b254" },
-    { "id": "noclip-high-risk", "version": 20, "sha256": "4b78f8b5fef6869de867883f852f1d2ea3208b47d52222e81e8b67973b861040" }
+    { "id": "noclip-high-risk", "version": 20, "sha256": "4b78f8b5fef6869de867883f852f1d2ea3208b47d52222e81e8b67973b861040" },
+    { "id": "noclip-gear-loadouts", "version": 11, "sha256": "4fde4d357b819c772e2cb166b8103f3010b84bda9eb155fd01eb2bfbe1a5d0fe" }
   ]
 }

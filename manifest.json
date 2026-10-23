@@ -15,6 +15,7 @@
     { "id": "noclip-nh-brid-b", "version": 79, "sha256": "0f628eaec1338f584f344e3bb4fd252f1b3057dacffaf4cab91cae4cbfbc8529" },
     { "id": "noclip-nh-brid-a", "version": 75, "sha256": "9fd868aba3bd6f6e06419ba8b1ea013834012e17e37af470fc5d535fcd40b254" },
     { "id": "noclip-high-risk", "version": 20, "sha256": "4b78f8b5fef6869de867883f852f1d2ea3208b47d52222e81e8b67973b861040" },
-    { "id": "noclip-gear-loadouts", "version": 11, "sha256": "4fde4d357b819c772e2cb166b8103f3010b84bda9eb155fd01eb2bfbe1a5d0fe" }
+    { "id": "noclip-gear-loadouts", "version": 11, "sha256": "4fde4d357b819c772e2cb166b8103f3010b84bda9eb155fd01eb2bfbe1a5d0fe" },
+    { "id": "noclip-f2p-jewellery", "version": 1, "sha256": "67dfec1c52571045d1d80713e3c4ab18d52e643329340bb54ad504ed358d8f02" }
   ]
 }

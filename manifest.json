@@ -19,6 +19,6 @@
     { "id": "noclip-f2p-jewellery", "version": 2, "sha256": "705f3294817e9f076da4ef431d3921c54ca88ca5a3bf7ecc15508a03f54cd8dd" },
     { "id": "noclip-tutorial-island", "version": 1, "sha256": "d7f41bd9b4a3a4a41be1bea8de00316a63410d9a8deaea971bc4ae4ed5c21e7b" },
     { "id": "noclip-aio-scavenger", "version": 3, "sha256": "6112f3801220bb76a8cf8848da5ba4627ed9ebb16f6d1d816aeb588d39836abd" },
-    { "id": "noclip-oss-agility-pro", "version": 2, "sha256": "e242d14a7eb7ebf608b82188d8203f7fda55ac003ef1c8bbff5ab6fae1813ce5" }
+    { "id": "noclip-oss-agility-pro", "version": 3, "sha256": "f08930e6f4b7116e3409916e10a24fd6c6e2e1e6e63ab66b2373273b767028d4" }
   ]
 }

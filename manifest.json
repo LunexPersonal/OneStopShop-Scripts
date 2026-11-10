@@ -20,6 +20,6 @@
     { "id": "noclip-tutorial-island", "version": 1, "sha256": "d7f41bd9b4a3a4a41be1bea8de00316a63410d9a8deaea971bc4ae4ed5c21e7b" },
     { "id": "noclip-aio-scavenger", "version": 3, "sha256": "6112f3801220bb76a8cf8848da5ba4627ed9ebb16f6d1d816aeb588d39836abd" },
     { "id": "noclip-oss-agility-pro", "version": 5, "sha256": "804a153dcacd8922d781e80c37b58dc2577c547c7adb00cbb7e787459946a434" },
-    { "id": "noclip-shopper-pro", "version": 3, "sha256": "d1f0c27139addec2fb843937b4b5c441b1560f423c62a6f8ce4bccb3926669fa" }
+    { "id": "noclip-shopper-pro", "version": 4, "sha256": "93e97039fc91f2e4e2fd57f9a2a769876b1c8a6ab6fb3fcfa9ce0e12b5713364" }
   ]
 }
